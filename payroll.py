@@ -8,6 +8,7 @@ import payroll_logger
 
 csv_records = []
 csv_files = []
+excel_file = "payroll.xlsx"
 
 payroll_logger.log_printer("i", "Process started. ")
 
